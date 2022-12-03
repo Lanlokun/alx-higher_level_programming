@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+#Print the last digit of a random number
+
 import random
 number = random.randint(-10000, 10000)
 
