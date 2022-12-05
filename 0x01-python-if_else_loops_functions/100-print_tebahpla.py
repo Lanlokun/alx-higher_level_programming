@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 
-""""Prints the alphabet in reverse order, alternating lowercase and uppercase letters, not followed by a new line"""
+""""
+Prints the alphabet in reverse order, 
+alternating lowercase and uppercase letters,
+not followed by a new line
+"""
 
 # i = 26
 
