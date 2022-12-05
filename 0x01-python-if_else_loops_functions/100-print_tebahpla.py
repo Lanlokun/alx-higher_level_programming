@@ -1,4 +1,4 @@
-#!/usr/bin/python 
+#!/usr/bin/python3
 
 """"Prints the alphabet in reverse order, alternating lowercase and uppercase letters, not followed by a new line"""
 
