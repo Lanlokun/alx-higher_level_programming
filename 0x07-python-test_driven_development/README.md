@@ -2,12 +2,12 @@
 Everything Python
 
 <ul>
-git clone https://github.com/Lanlokun/alx-higher_level_programming.git
+    git clone https://github.com/Lanlokun/alx-higher_level_programming.git
 
-cd alx_higher_level_programming.git
+    cd alx_higher_level_programming.git
 
-cd 0x07-python-test_driven_development
- 
+    cd 0x07-python-test_driven_development
+
  </ul>
 
 # 1. Divide a matrix
@@ -77,9 +77,9 @@ cd 0x07-python-test_driven_development
  
  <ul>
 
-   pip3 install numpy==1.15.0
+     pip3 install numpy==1.15.0
 
-   python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt 
+     python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt 
 
  </ul>
 
