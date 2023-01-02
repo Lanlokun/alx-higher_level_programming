@@ -2,7 +2,7 @@
 Everything Python
 
 <ul>
-    git clone https://github.com/Lanlokun/alx-higher_level_programming.git
+        git clone https://github.com/Lanlokun/alx-higher_level_programming.git
 
     cd alx_higher_level_programming.git
 
