@@ -57,4 +57,6 @@ python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt
 
 Create a function that prints Python strings.
 
+gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c
+
 Python Strings$ python3 ./102-tests.py
