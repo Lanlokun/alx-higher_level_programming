@@ -65,4 +65,20 @@ Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
 Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
 
 
+<ul>
 
+    python 5-main.py
+
+</ul>
+
+# 6. How many instances
+
+Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py)
+
+
+
+<ul>
+
+    python 6-main.py
+
+</ul>
