@@ -101,3 +101,14 @@ Everything Python
     python 8-main.py
 
 </ul>
+
+# 9. A square is a rectangle
+
+Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py)
+
+<ul>
+
+    python 9-main.py
+
+</ul>
+
