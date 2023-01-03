@@ -40,3 +40,13 @@ Everything Python
 </ul>
 
 
+# 3. String representation
+
+Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
+
+<ul>
+    python 3-main.py
+
+</ul>
+
+
