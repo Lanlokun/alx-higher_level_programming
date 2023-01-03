@@ -42,7 +42,7 @@ Everything Python
 
 # 3. String representation
 
-Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
+    Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
 
 <ul>
 
@@ -52,7 +52,7 @@ Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
 
 # 4. Eval is magic
 
-Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
+    Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
 
 <ul>
 
@@ -62,7 +62,7 @@ Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
 
 # 5. Detect instance deletion
 
-Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
+    Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
 
 
 <ul>
@@ -73,12 +73,21 @@ Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
 
 # 6. How many instances
 
-Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py)
-
-
+    Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py)
 
 <ul>
 
     python 6-main.py
 
 </ul>
+
+# 7. Change representation
+
+    Write a class Rectangle that defines a rectangle by: (based on 6-rectangle.py)
+
+<ul>
+
+    python 7-main.py
+
+</ul>
+
