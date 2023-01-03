@@ -1,62 +1,100 @@
 # alx-higher_level_programming
 Everything Python
 
-git clone https://github.com/Lanlokun/alx-higher_level_programming.git
+<ul>
+        git clone https://github.com/Lanlokun/alx-higher_level_programming.git
 
-cd alx_higher_level_programming.git
+    cd alx_higher_level_programming.git
 
-cd 0x07-python-test_driven_development
+    cd 0x07-python-test_driven_development
 
-1. Divide a matrix
+ </ul>
 
-Write a function that divides all elements of a matrix.
+# 1. Divide a matrix
 
-python3 -m doctest -v ./tests/2-matrix_divided.txt | tail -2
+    Write a function that divides all elements of a matrix.
+<ul>
+ 
+    python3 -m doctest -v ./tests/2-matrix_divided.txt | tail -2
+ 
+</ul>
 
-2. Say my name
+# 2. Say my name
+    
+    Write a function that prints My name is <first name> <last name>
 
-Write a function that prints My name is <first name> <last name>
+<ul>
 
-python3 -m doctest -v ./tests/3-say_my_name.txt | tail -2s
+    python3 -m doctest -v ./tests/3-say_my_name.txt | tail -2s
+ 
+</ul>
 
-3. Print square
+# 3. Print square
 
-Write a function that prints a square with the character #.
+     Write a function that prints a square with the character '#'.
+ 
+ <ul>
+ 
+     python3 -m doctest -v ./tests/4-print_square.txt
+  
+ </ul>
 
-python3 -m doctest -v ./tests/4-print_square.txt
+# 4. Text indentation
 
-4. Text indentation
-
-Write a function that prints a text with 2 new lines after each of these characters: ., ? and :
-
-python3 -m doctest -v ./tests/5-text_indentation.txt
-
-
-5. Max integer - Unittest
-
- write unittests for the function def max_integer(list=[]):.
-
- python3 -m unittest tests.6-max_integer_test 2>&1 | tail -1
+    Write a function that prints a text with 2 new lines after each of these characters: ., ? and :
+ 
+ <ul>
+ 
+    python3 -m doctest -v ./tests/5-text_indentation.txt
+  
+ </ul>
 
 
-6. Matrix multiplication
+# 5. Max integer - Unittest
 
-Write a function that multiplies 2 matrices:
+    write unittests for the function def max_integer(list=[]):.
+ 
+ <ul>
+ 
+    python3 -m unittest tests.6-max_integer_test 2>&1 | tail -1
+  
+ </ul>
 
-python3 -m doctest -v ./tests/100-matrix_mul.txt | tail -2
 
-7. Lazy matrix multiplication
+# 6. Matrix multiplication
+ 
+     Write a function that multiplies 2 matrices:
 
-Write a function that multiplies 2 matrices by using the module NumPy
+<ul>
+ 
+     python3 -m doctest -v ./tests/100-matrix_mul.txt | tail -2
+ 
+ </ul>
 
-pip3 install numpy==1.15.0
+# 7. Lazy matrix multiplication
+ 
+    Write a function that multiplies 2 matrices by using the module NumPy
+ 
+ <ul>
 
-python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt 
+     pip3 install numpy==1.15.0
 
-8. CPython #3: Python Strings
+     python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt 
 
-Create a function that prints Python strings.
+ </ul>
 
+# 8. CPython #3: Python Strings
+
+    Create a function that prints Python strings.
+
+<ul>
+
+<<<<<<< HEAD
 gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c
 
 Python Strings$ python3 ./102-tests.py
+=======
+    Python Strings$ python3 ./102-tests.py
+    
+</ul>
+>>>>>>> 7167ebd47eac5525a24ea8757c6a9a03baa71af3
