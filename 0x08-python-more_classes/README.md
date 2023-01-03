@@ -122,6 +122,9 @@ The N queens puzzle is the challenge of placing N non-attacking queens on an N×
 
 <ul>
 
-    python 9-main.py
-
+    chmod u+x 101-nqueens.py
+    ./101-nqueens.py {integer}
+    ./101-nqueens.py 4
+    ./101-nqueens.py 6
+    
 </ul>
