@@ -91,3 +91,13 @@ Everything Python
 
 </ul>
 
+# 8. Compare rectangles
+
+    Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py)
+
+
+<ul>
+
+    python 8-main.py
+
+</ul>
