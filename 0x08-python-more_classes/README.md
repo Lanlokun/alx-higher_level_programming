@@ -16,11 +16,27 @@ Everything Python
      Write an empty class Rectangle that defines a rectangle:
 
 <ul>
-    ./0-main.py
+    python 0-main.py
 
 </ul>
 
 # 1. Real definition of a rectangle
 
+    Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+
+
+<ul>
+    python 1-main.py
+
+</ul>
+
+# 2. Area and Perimeter
+
+    Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
+
+<ul>
+    python 2-main.py
+
+</ul>
 
 
