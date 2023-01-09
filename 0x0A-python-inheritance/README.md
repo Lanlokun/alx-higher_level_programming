@@ -63,4 +63,10 @@ Everything Python
 
 </ul>
 
+# 5. Geometry module
+
+        Write an empty class BaseGeometry.
+
+
+
 
