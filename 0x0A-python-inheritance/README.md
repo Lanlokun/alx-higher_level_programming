@@ -150,3 +150,15 @@ Everything Python
     ./11-main.py
 
 </ul>
+
+# 13. Can I?
+
+
+        Write a function that adds a new attribute to an object if it’s possible:
+
+<ul>
+
+    chmod u+x 11-main.py
+    ./11-main.py
+
+</ul>
