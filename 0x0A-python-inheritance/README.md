@@ -138,3 +138,15 @@ Everything Python
     ./10-main.py
 
 </ul>
+
+# 11. Square #2
+
+        Write a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+
+
+<ul>
+
+    chmod u+x 11-main.py
+    ./11-main.py
+
+</ul>
