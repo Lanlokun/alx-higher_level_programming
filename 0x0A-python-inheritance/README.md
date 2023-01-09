@@ -11,3 +11,9 @@ Write a function that returns the list of available attributes and methods of an
         ./0-main.py
 
 </ul>
+
+# 1. My list
+
+        Write a class MyList that inherits from list:
+
+
