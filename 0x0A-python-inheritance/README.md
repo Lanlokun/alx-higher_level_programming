@@ -31,5 +31,22 @@ Everything Python
         Write a function that returns True if the object is exactly an instance of the specified class ; otherwise False.
 
 
-    
+<ul>
 
+    chmod u+x 2-main.py
+    ./2-main.py
+
+</ul>
+
+3. Same class or inherit from
+
+
+        Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
+
+
+<ul>
+
+    chmod u+x 2-main.py
+    ./3-main.py
+
+</ul>
