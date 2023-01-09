@@ -38,7 +38,7 @@ Everything Python
 
 </ul>
 
-3. Same class or inherit from
+# 3. Same class or inherit from
 
 
         Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
@@ -46,7 +46,21 @@ Everything Python
 
 <ul>
 
-    chmod u+x 2-main.py
+    chmod u+x 3-main.py
     ./3-main.py
 
 </ul>
+
+# 4. Only sub class of
+
+
+        Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
+
+<ul>
+
+    chmod u+x 4-main.py
+    ./4-main.py
+
+</ul>
+
+
