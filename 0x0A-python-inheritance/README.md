@@ -107,8 +107,8 @@ Everything Python
 
 <ul>
 
-    chmod u+x 7-main.py
-    ./7-main.py
+    chmod u+x 8-main.py
+    ./8-main.py
 
 </ul>
 
@@ -118,4 +118,23 @@ Everything Python
         Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
 
 
+<ul>
 
+    chmod u+x 9-main.py
+    ./9-main.py
+
+</ul>
+
+
+# 10. Square #1
+
+        Write a class Square that inherits from Rectangle (9-rectangle.py):
+
+
+
+<ul>
+
+    chmod u+x 10-main.py
+    ./10-main.py
+
+</ul>
