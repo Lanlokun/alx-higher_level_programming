@@ -101,9 +101,21 @@ Everything Python
 
 </ul>
 
-8. Rectangle
+# 8. Rectangle
 
         Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
+
+<ul>
+
+    chmod u+x 7-main.py
+    ./7-main.py
+
+</ul>
+
+# 9. Full rectangle
+
+
+        Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
 
 
 
