@@ -151,6 +151,18 @@ Everything Python
 
 </ul>
 
+# 12. My integer
+
+        Write a class MyInt that inherits from int:
+
+
+<ul>
+
+    chmod u+x 12-main.py
+    ./12-main.py
+
+</ul>
+
 # 13. Can I?
 
 
@@ -158,7 +170,7 @@ Everything Python
 
 <ul>
 
-    chmod u+x 11-main.py
-    ./11-main.py
+    chmod u+x 13-main.py
+    ./13-main.py
 
 </ul>
