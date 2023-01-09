@@ -101,3 +101,9 @@ Everything Python
 
 </ul>
 
+8. Rectangle
+
+        Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
+
+
+
