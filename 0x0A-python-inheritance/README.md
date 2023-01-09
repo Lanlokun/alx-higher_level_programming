@@ -80,3 +80,24 @@ Everything Python
 
         Write a class BaseGeometry (based on 5-base_geometry.py).
 
+
+<ul>
+
+    chmod u+x 6-main.py
+    ./6-main.py
+
+</ul>
+
+# 7. Integer validator
+
+        Write a class BaseGeometry (based on 6-base_geometry.py).
+
+
+
+<ul>
+
+    chmod u+x 7-main.py
+    ./7-main.py
+
+</ul>
+
