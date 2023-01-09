@@ -68,5 +68,15 @@ Everything Python
         Write an empty class BaseGeometry.
 
 
+<ul>
 
+    chmod u+x 5-main.py
+    ./5-main.py
+
+</ul>
+
+# 6. Improve Geometry
+
+
+        Write a class BaseGeometry (based on 5-base_geometry.py).
 
