@@ -166,3 +166,15 @@ Write a class Student that defines a student by: (based on 10-student.py)
 
         Technical interview preparation:
 
+<ul>
+
+        chmod u+x 12-main.py
+        ./12-main.py
+
+</ul>
+
+
+# 13. Search and update
+
+        Write a function that inserts a line of text to a file, after each line containing a specific string (see example):
+
