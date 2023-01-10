@@ -70,5 +70,25 @@ Everything Python
 
 </ul>
 
-6. Create object from a JSON file
+# 6. Create object from a JSON file
 
+        Write a function that creates an Object from a “JSON file”:
+
+<ul>
+
+        chmod u+x 6-main.py
+        ./6-main.py
+
+</ul>
+
+# 7. Load, add, save
+
+        Write a script that adds all arguments to a Python list, and then save them to a file:
+
+
+<ul>
+
+        chmod u+x 7-main.py
+        ./7-main.py
+
+</ul>
