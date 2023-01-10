@@ -58,3 +58,14 @@ Everything Python
         ./4-main.py
 
 </ul>
+
+# 5. Save Object to a file
+
+        Write a function that writes an Object to a text file, using a JSON representation:
+
+<ul>
+
+        chmod u+x 5-main.py
+        ./5-main.py
+
+</ul>
