@@ -69,3 +69,6 @@ Everything Python
         ./5-main.py
 
 </ul>
+
+6. Create object from a JSON file
+
