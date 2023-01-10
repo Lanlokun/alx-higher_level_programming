@@ -99,3 +99,32 @@ Everything Python
 
         Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object:
 
+<ul>
+
+        chmod u+x 8-main.py
+        chmod u+x 8-main_2.py
+        ./8-main.py
+        ./8-main_2.py
+
+</ul>
+
+
+
+# 9. Student to JSON
+
+
+        Write a class Student that defines a student by:
+
+            Public instance attributes:
+                first_name
+                last_name
+                age
+
+<ul>
+
+        chmod u+x 8-main.py
+        chmod u+x 8-main_2.py
+        ./8-main.py
+        ./8-main_2.py
+
+</ul>
