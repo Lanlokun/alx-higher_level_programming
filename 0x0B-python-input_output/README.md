@@ -35,3 +35,14 @@ Everything Python
         ./2-main.py
 
 </ul>
+
+# 3. To JSON string
+
+        Write a function that returns the JSON representation of an object (string):
+
+<ul>
+
+        chmod u+x 3-main.py
+        ./3-main.py
+
+</ul>
