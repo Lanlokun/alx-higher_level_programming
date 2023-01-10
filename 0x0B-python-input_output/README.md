@@ -122,9 +122,25 @@ Everything Python
 
 <ul>
 
-        chmod u+x 8-main.py
-        chmod u+x 8-main_2.py
-        ./8-main.py
-        ./8-main_2.py
+        chmod u+x 9-main.py
+        ./9-main.py
 
 </ul>
+
+# 10. Student to JSON with filter
+
+
+        Write a class Student that defines a student by: (based on 9-student.py)
+
+            Public instance attributes:
+                first_name
+                last_name
+                age
+
+<ul>
+
+        chmod u+x 9-main.py
+        ./9-main.py
+
+</ul>
+
