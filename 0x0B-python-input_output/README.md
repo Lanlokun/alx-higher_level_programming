@@ -46,3 +46,15 @@ Everything Python
         ./3-main.py
 
 </ul>
+
+# 4. From JSON string to Object
+
+
+        Write a function that returns an object (Python data structure) represented by a JSON string:
+
+<ul>
+
+        chmod u+x 4-main.py
+        ./4-main.py
+
+</ul>
