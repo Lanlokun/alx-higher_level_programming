@@ -23,3 +23,15 @@ Everything Python
         ./1-main.py
 
 </ul>
+
+# 2. Append to a file
+
+        Write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added:
+
+
+<ul>
+
+        chmod u+x 2-main.py
+        ./2-main.py
+
+</ul>
