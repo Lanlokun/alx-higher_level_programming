@@ -154,3 +154,15 @@ Write a class Student that defines a student by: (based on 10-student.py)
                 last_name
                 age
 
+<ul>
+
+        chmod u+x 11-main.py
+        ./11-main.py student.json
+
+</ul>
+
+# 12. Pascal's Triangle
+
+
+        Technical interview preparation:
+
