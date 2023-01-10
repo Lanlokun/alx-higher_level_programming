@@ -88,7 +88,14 @@ Everything Python
 
 <ul>
 
-        chmod u+x 7-main.py
-        ./7-main.py
+        chmod u+x 7-add_item.py
+        ./7-add_item.py
+        cat add_item.json
 
 </ul>
+
+# 8. Class to JSON
+
+
+        Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object:
+
