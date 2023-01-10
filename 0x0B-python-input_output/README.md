@@ -144,3 +144,13 @@ Everything Python
 
 </ul>
 
+# 11. Student to disk and reload
+
+
+Write a class Student that defines a student by: (based on 10-student.py)
+
+        Public instance attributes:
+                first_name
+                last_name
+                age
+
