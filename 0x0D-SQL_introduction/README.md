@@ -86,5 +86,12 @@
     Write a script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.
 
 
+# 18. Temperatures #0
+
+
+    Write a script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
+
+
+
 
 
