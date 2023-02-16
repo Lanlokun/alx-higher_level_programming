@@ -26,3 +26,7 @@
 
     Write a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.
 
+# 6. List all in table
+
+    Write a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.
+
