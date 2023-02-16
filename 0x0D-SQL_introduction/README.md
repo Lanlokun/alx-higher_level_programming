@@ -96,6 +96,11 @@
 
     Write a script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
 
+# 20. Temperatures #2
+
+
+    Write a script that displays the max temperature of each state (ordered by State name).
+
 
 
 
