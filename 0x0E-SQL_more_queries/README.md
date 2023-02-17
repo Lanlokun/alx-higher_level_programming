@@ -26,3 +26,8 @@
 
     Write a script that creates the table id_not_null on your MySQL server.
 
+# 5. Unique ID
+
+
+    Write a script that creates the table unique_id on your MySQL server.
+
