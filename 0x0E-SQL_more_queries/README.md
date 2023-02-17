@@ -51,3 +51,8 @@
 
     Write a script that lists all cities contained in the database hbtn_0d_usa.
 
+# 10. Genre ID by show
+
+
+    Import the database dump from hbtn_0d_tvshows to your MySQL server: download
+
