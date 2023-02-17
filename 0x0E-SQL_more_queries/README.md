@@ -101,3 +101,8 @@
 
     Write a script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
 
+# 19. Rotten tomatoes
+
+
+    Write a script that lists all shows from hbtn_0d_tvshows_rate by their rating.
+
