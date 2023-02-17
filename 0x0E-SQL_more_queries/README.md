@@ -53,21 +53,31 @@
 
 # 10. Genre ID by show
 
+    Write a script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
 
-    Import the database dump from hbtn_0d_tvshows to your MySQL server: download
 
 # 11. Genre ID for all shows
 
 
-    Import the database dump of hbtn_0d_tvshows to your MySQL server: download (same as 10-genre_id_by_show.sql)
+    Write a script that lists all shows contained in the database hbtn_0d_tvshows.
+
 
 # 12. No genre
 
 
-    Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 11-genre_id_all_shows.sql)
+    Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked.
+
 
 # 13. Number of shows by genre
 
 
-    Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 12-no_genre.sql)
+    Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.
+
+
+# 14. My genres
+
+
+    Write a script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter.
+
+
 
