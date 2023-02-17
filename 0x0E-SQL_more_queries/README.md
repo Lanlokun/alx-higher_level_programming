@@ -96,3 +96,8 @@
 
     Write a script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter
 
+# 18. No Comedy tonight!
+
+
+    Write a script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
+
