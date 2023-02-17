@@ -56,3 +56,8 @@
 
     Import the database dump from hbtn_0d_tvshows to your MySQL server: download
 
+# 11. Genre ID for all shows
+
+
+    Import the database dump of hbtn_0d_tvshows to your MySQL server: download (same as 10-genre_id_by_show.sql)
+
