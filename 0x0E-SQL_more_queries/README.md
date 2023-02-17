@@ -86,3 +86,8 @@
 
     Write a script that lists all Comedy shows in the database hbtn_0d_tvshows.
 
+# 16. List shows and genres
+
+
+    Write a script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows.
+
