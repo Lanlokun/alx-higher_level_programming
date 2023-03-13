@@ -175,7 +175,16 @@
     ./100-main.js
 </ul>
 
+# 15. Call me Moby
 
+
+        Write a function that executes x times a function.
+
+<ul>
+
+    chmod u+x
+    ./101-main.js
+</ul>
 
 
 
