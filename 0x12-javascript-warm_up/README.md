@@ -44,3 +44,16 @@
     ./3-value_argument.js 
 </ul>
 
+# 4. Create a sentence
+
+        Write a script that prints two arguments passed to it, in the following format: “ is ”
+
+<ul>
+
+    chmod u+x
+    ./4-concat.js
+</ul>
+
+
+
+
