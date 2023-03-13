@@ -54,6 +54,17 @@
     ./4-concat.js
 </ul>
 
+# 5. An Integer
+
+
+        Write a script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer:
+
+<ul>
+
+    chmod u+x
+    ./5-to_integer.js
+</ul>
+
 
 
 
