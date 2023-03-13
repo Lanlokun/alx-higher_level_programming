@@ -115,5 +115,17 @@
 </ul>
 
 
+# 10. Factorial
+
+
+        Write a script that computes and prints a factorial
+
+<ul>
+
+    chmod u+x
+    ./10-factorial.js
+</ul>
+
+
 
 
