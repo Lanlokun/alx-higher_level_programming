@@ -32,3 +32,15 @@
     chmod u+x
     ./2-arguments.js
 </ul>
+
+# 3. Value of my argument
+
+
+    Write a script that prints the first argument passed to it:
+
+<ul>
+
+    chmod u+x
+    ./3-value_argument.js 
+</ul>
+
