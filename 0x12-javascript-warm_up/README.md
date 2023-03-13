@@ -198,6 +198,17 @@
 </ul>
 
 
+# 17. Increment object
+
+
+        Update this script by adding a new function incr that increments the integer value.
+
+
+<ul>
+
+    chmod u+x
+    ./103-object_fct.js
+</ul>
 
 
 
