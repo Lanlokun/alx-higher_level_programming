@@ -163,6 +163,18 @@
 
 </ul>
 
+# 14. Const or not const
+
+
+        Write a file that modifies the value of myVar to 333
+
+
+<ul>
+
+    chmod u+x
+    ./100-main.js
+</ul>
+
 
 
 
