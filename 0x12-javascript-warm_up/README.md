@@ -90,3 +90,16 @@
 </ul>
 
 
+# 8. Square
+
+
+        Write a script that prints a square
+
+
+<ul>
+
+    chmod u+x
+    ./8-square.js
+</ul>
+
+
