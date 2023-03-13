@@ -151,6 +151,20 @@
     ./12-object.js
 </ul>
 
+# 13. Add file
+
+        Write a function that returns the addition of 2 integers.
+
+
+<ul>
+
+    chmod u+x
+    ./13-main.js
+
+</ul>
+
+
+
 
 
 
