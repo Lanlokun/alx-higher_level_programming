@@ -78,5 +78,15 @@
 
 </ul>
 
+# 7. I love C
+
+
+        Write a script that prints x times “C is fun”
+
+<ul>
+
+    chmod u+x
+    ./7-multi_c.js
+</ul>
 
 
