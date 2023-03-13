@@ -127,5 +127,19 @@
 </ul>
 
 
+# 11. Second biggest!
+
+
+        Write a script that searches the second biggest integer in the list of arguments.
+
+
+<ul>
+
+    chmod u+x
+    ./11-second_biggest.js
+</ul>
+
+
+
 
 
