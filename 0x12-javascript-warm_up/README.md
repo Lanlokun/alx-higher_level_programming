@@ -139,6 +139,17 @@
     ./11-second_biggest.js
 </ul>
 
+# 12. Object
+
+
+        Update this script to replace the value 12 with 89:
+
+
+<ul>
+
+    chmod u+x
+    ./12-object.js
+</ul>
 
 
 
