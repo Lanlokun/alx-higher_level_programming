@@ -158,3 +158,15 @@
 
 </ul>
 
+# 13. Concat files
+
+
+    Write a script that concats 2 files.
+
+
+<ul>
+
+    chmod u+x 
+    ./102-concat.js fileA fileB fileC
+</ul>
+
