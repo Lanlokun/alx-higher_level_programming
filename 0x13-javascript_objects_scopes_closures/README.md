@@ -73,3 +73,16 @@
     ./5-main.js
 
 </ul>
+
+# 6. Square #1
+
+
+    Write a class Square that defines a square and inherits from Square of 5-square.js:
+
+
+<ul>
+
+    chmod u+x 
+    ./6-main.js
+
+</ul>
