@@ -23,3 +23,16 @@
     ./1-main.js
 
 </ul>
+
+# 2. Rectangle #2
+
+
+    Write a class Rectangle that defines a rectangle:
+
+
+<ul>
+
+    chmod u+x 
+    ./2-main.js
+
+</ul>
