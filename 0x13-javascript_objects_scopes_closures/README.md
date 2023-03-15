@@ -12,3 +12,14 @@
 
 </ul>
 
+# 1. Rectangle #1
+
+    Write a class Rectangle that defines a rectangle:
+
+
+<ul>
+
+    chmod u+x 
+    ./1-main.js
+
+</ul>
