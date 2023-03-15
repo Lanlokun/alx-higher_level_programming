@@ -86,3 +86,17 @@
     ./6-main.js
 
 </ul>
+
+# 7. Occurrences
+
+
+    Write a function that returns the number of occurrences in a list:
+
+<ul>
+
+    chmod u+x 
+    ./7-main.js
+
+</ul>
+
+
