@@ -122,3 +122,14 @@
 
 </ul>
 
+# 10. Number conversion
+
+    Write a function that converts a number from base 10 to another base passed as argument:
+
+
+<ul>
+
+    chmod u+x 
+    ./10-main.js
+
+</ul>
