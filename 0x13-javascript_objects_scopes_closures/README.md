@@ -133,3 +133,15 @@
     ./10-main.js
 
 </ul>
+
+# 11. Factor index
+
+    Write a script that imports an array and computes a new array.
+
+<ul>
+
+    chmod u+x 
+    ./100-map.js 
+
+</ul>
+
