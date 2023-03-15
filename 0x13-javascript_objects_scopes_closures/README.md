@@ -99,4 +99,15 @@
 
 </ul>
 
+# 8. Esrever
+
+
+    Write a function that returns the reversed version of a list:
+
+<ul>
+
+    chmod u+x 
+    ./8-main.js
+
+</ul>
 
