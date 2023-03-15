@@ -145,3 +145,16 @@
 
 </ul>
 
+
+# 12. Sorted occurences
+
+
+    Write a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
+
+<ul>
+
+    chmod u+x 
+    ./101-sorted.js
+
+</ul>
+
