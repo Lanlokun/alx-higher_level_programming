@@ -84,15 +84,16 @@
 
 </ul>
 
-# 6. First state model
+# 7. All states via SQLAlchemy
 
-    Write a python file that contains the class definition of a State and an instance Base = declarative_base():
+
+    Write a script that lists all State objects from the database hbtn_0e_6_usa
+
 
 <ul>
 
-    cat 6-model_state.sql | mysql -uroot -p
-    ./6-model_state.py root root hbtn_0e_6_usa
+    cat 7-model_state_fetch_all.sql | mysql -uroot -p hbtn_0e_6_usa
+    ./7-model_state_fetch_all.py root root hbtn_0e_6_usa
 
 </ul>
-
 
