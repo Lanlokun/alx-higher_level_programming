@@ -16,5 +16,3 @@ if __name__ == "__main__":
     db = cursor.fetchall()
     for i in db:
         print(i)
-
-    con.close()

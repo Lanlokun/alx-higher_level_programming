@@ -20,7 +20,4 @@ if __name__ == "__main__":
     for i in db:
         if i[1] == argv[4]:
             print(i)
-
-    con.close()
-
     
