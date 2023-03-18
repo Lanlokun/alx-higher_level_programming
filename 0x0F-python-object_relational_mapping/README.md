@@ -69,6 +69,30 @@
 <ul>
 
     cat 0-select_states.sql | mysql -uroot -p
-    ./3-my_safe_filter_states.py root root hbtn_0e_0_usa 'Arizona'
+    ./5-filter_cities.py root root hbtn_0e_4_usa Texas
+</ul>
+
+# 6. First state model
+
+
+    Write a python file that contains the class definition of a State and an instance Base = declarative_base():
+
+<ul>
+
+    cat 0-select_states.sql | mysql -uroot -p
+    ./6-model_state.py root root hbtn_0e_6_usa
 
 </ul>
+
+# 6. First state model
+
+    Write a python file that contains the class definition of a State and an instance Base = declarative_base():
+
+<ul>
+
+    cat 6-model_state.sql | mysql -uroot -p
+    ./6-model_state.py root root hbtn_0e_6_usa
+
+</ul>
+
+
