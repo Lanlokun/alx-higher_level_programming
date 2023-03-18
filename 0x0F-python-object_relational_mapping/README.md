@@ -140,5 +140,17 @@
 <ul>
 
     ./11-model_state_insert.py root root hbtn_0e_6_usa 
+
+</ul>
+
+# 12. Update a state
+
+
+    Write a script that changes the name of a State object from the database hbtn_0e_6_usa
+
+
+<ul>
+
+    ./12-model_state_update_id_2.py root root hbtn_0e_6_usa 
     
 </ul>
