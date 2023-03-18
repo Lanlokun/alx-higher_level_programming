@@ -129,5 +129,16 @@
 <ul>
 
    ./10-model_state_my_get.py root root hbtn_0e_6_usa Texas
-   
+
+</ul>
+
+# 11. Add a new state
+
+
+    Write a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
+
+<ul>
+
+    ./11-model_state_insert.py root root hbtn_0e_6_usa 
+    
 </ul>
