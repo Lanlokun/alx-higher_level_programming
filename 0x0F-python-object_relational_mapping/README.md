@@ -167,3 +167,16 @@
     /7-model_state_fetch_all.py root root hbtn_0e_6_usa 
 
 </ul>
+
+# 14. Cities in state
+
+
+    Write a Python file similar to model_state.py named model_city.py that contains the class definition of a City.
+
+
+
+<ul>
+
+    ./14-model_city_fetch_by_state.py root root hbtn_0e_14_usa
+    
+</ul>
