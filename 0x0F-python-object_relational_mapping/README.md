@@ -48,3 +48,15 @@
 
 </ul>
 
+# 4. Cities by states
+
+
+    Write a script that lists all cities from the database hbtn_0e_4_usa
+
+
+<ul>
+
+    cat 0-select_states.sql | mysql -uroot -p
+    ./3-my_safe_filter_states.py root root hbtn_0e_0_usa 'Arizona'
+
+</ul>
