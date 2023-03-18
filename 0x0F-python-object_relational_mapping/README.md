@@ -120,3 +120,14 @@
 
 </ul>
 
+# 10. Get a state
+
+
+    Write a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa
+
+
+<ul>
+
+   ./10-model_state_my_get.py root root hbtn_0e_6_usa Texas
+   
+</ul>
