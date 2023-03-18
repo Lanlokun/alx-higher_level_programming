@@ -107,3 +107,16 @@
    ./8-model_state_fetch_first.py root root hbtn_0e_6_usa
 
 </ul>
+
+
+# 9. Contains `a`
+
+    Write a script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa
+
+
+<ul>
+
+   ./9-model_state_filter_a.py root root hbtn_0e_6_usa
+
+</ul>
+
