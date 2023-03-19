@@ -204,6 +204,21 @@
 <ul>
 
     cat 101-relationship_states_cities_list.sql | mysql -uroot -p
+    chmod u+x 101-relationship_states_cities_list.py
     ./101-relationship_states_cities_list.py root root hbtn_0e_101_usa
+
+</ul>
+
+
+# 17. From city
+
+
+    Write a script that lists all City objects from the database hbtn_0e_101_usa
+
+
+
+<ul>
+    chmod u+x 102-relationship_cities_states_list.py
+   ./102-relationship_cities_states_list.py root root hbtn_0e_101_usa
 
 </ul>
