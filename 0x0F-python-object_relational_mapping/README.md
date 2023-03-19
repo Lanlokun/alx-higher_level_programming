@@ -180,3 +180,17 @@
     ./14-model_city_fetch_by_state.py root root hbtn_0e_14_usa
     
 </ul>
+
+# 15. City relationship
+
+    Improve the files model_city.py and model_state.py, and save them as relationship_city.py and relationship_state.py:
+
+    City class:
+    No change
+    State class:
+    In addition to previous requirements, the class attribute cities must represent a relationship with the class City. If the State object is deleted, all linked 
+<ul>
+
+    ./100-relationship_states_cities.py root root hbtn_0e_100_usa
+        
+</ul>
