@@ -192,5 +192,18 @@
 <ul>
 
     ./100-relationship_states_cities.py root root hbtn_0e_100_usa
-        
+
+</ul>
+
+# 16. List relationship
+
+
+    Write a script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
+
+
+<ul>
+
+    cat 101-relationship_states_cities_list.sql | mysql -uroot -p
+    ./101-relationship_states_cities_list.py root root hbtn_0e_101_usa
+
 </ul>
