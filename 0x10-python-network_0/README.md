@@ -75,3 +75,17 @@
 
 </ul>
 
+# 7. Only status code
+
+
+    Write a Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.
+
+
+<ul>
+
+    ./100-status_code.sh 0.0.0.0:5000 ; echo ""
+
+</ul>
+
+
+
