@@ -64,3 +64,14 @@
 
 <ul>
 
+# 6. Find a peak
+
+
+    Write a function that finds a peak in a list of unsorted integers.
+
+<ul>
+
+    ./6-main.py
+
+</ul>
+
