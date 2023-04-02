@@ -41,3 +41,15 @@
     ./3-methods.sh 0.0.0.0:5000/route_4
 
 </ul>
+
+# 4. cURL headers
+
+
+    Write a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
+
+
+<ul>
+
+    /4-header.sh 0.0.0.0:5000/route_5 ; echo ""
+</ul>
+
