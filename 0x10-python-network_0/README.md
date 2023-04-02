@@ -53,3 +53,14 @@
     /4-header.sh 0.0.0.0:5000/route_5 ; echo ""
 </ul>
 
+# 5. cURL POST parameters
+
+    Write a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
+
+
+<ul>
+
+    ./5-post_params.sh 0.0.0.0:5000/route_6 ; echo ""
+
+<ul>
+
