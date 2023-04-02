@@ -87,5 +87,14 @@
 
 </ul>
 
+# 8. cURL a JSON file
 
+
+    Write a Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.
+
+<ul>
+
+    ./101-post_json.sh 0.0.0.0:5000/route_json my_json_0 ; echo ""
+
+</ul>
 
