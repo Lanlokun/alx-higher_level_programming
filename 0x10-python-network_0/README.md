@@ -19,3 +19,14 @@
     ./1-body.sh 0.0.0.0:5000/route_1 ; echo ""
 
 </ul>
+
+# 2. cURL Method
+
+
+    Write a Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response
+
+<ul>
+
+    ./2-delete.sh 0.0.0.0:5000/route_3 ; echo ""
+
+</ul>
