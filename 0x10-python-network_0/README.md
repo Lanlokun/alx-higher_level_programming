@@ -30,3 +30,14 @@
     ./2-delete.sh 0.0.0.0:5000/route_3 ; echo ""
 
 </ul>
+
+# 3. cURL only methods
+
+
+    Write a Bash script that takes in a URL and displays all HTTP methods the server will accept.
+
+<ul>
+    
+    ./3-methods.sh 0.0.0.0:5000/route_4
+
+</ul>
