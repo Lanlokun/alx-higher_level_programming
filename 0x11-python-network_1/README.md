@@ -85,3 +85,16 @@
     ./6-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
    
 </ul>
+
+# 7. Error code #1
+
+
+    Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response.
+
+
+<ul>
+
+   ./7-error_code.py http://0.0.0.0:5000
+   ./7-error_code.py http://0.0.0.0:5000/status_401
+   
+</ul>
