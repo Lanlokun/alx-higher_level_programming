@@ -112,3 +112,16 @@
    
 </ul>
 
+# 9. My GitHub!
+
+
+    Write a Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id
+
+<ul>
+
+   ./10-my_github.py papamuziko cisfun
+   ./10-my_github.py papamuziko wrong_pwd
+   
+</ul>
+
+
