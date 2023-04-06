@@ -125,3 +125,15 @@
 </ul>
 
 
+# 10. Time for an interview!
+
+
+    Write a Python script that takes 2 arguments in order to solve this challenge.
+
+
+<ul>
+
+   ./100-github_commits.py rails rails
+   
+</ul>
+
