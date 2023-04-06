@@ -31,6 +31,20 @@
 <ul>
 
     ./2-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
-    
+
 </ul>
 
+
+# 3. Error code #0
+
+
+    Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).
+
+<ul>
+
+    /3-error_code.py http://0.0.0.0:5000
+    ./3-error_code.py http://0.0.0.0:5000/status_401
+    ./3-error_code.py http://0.0.0.0:5000/doesnt_exist
+    ./3-error_code.py http://0.0.0.0:5000/status_500
+
+</ul>
