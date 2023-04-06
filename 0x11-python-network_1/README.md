@@ -69,7 +69,19 @@
 
 
 <ul>
+    chmod u+x 5-hbtn_header,py
+    ./5-hbtn_header.py https://alx-intranet.hbtn.io  
+   
+</ul>
 
-    /5-hbtn_header.py https://alx-intranet.hbtn.io  
+# 6. POST an email #1
+
+    Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
+
+
+
+<ul>
+
+    ./6-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
    
 </ul>
