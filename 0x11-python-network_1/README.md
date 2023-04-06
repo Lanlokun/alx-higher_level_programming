@@ -42,9 +42,22 @@
 
 <ul>
 
-    /3-error_code.py http://0.0.0.0:5000
+    ./3-error_code.py http://0.0.0.0:5000
     ./3-error_code.py http://0.0.0.0:5000/status_401
     ./3-error_code.py http://0.0.0.0:5000/doesnt_exist
     ./3-error_code.py http://0.0.0.0:5000/status_500
 
+</ul>
+
+
+# 4. What's my status? #1
+
+
+    Write a Python script that fetches https://alx-intranet.hbtn.io/status
+
+
+<ul>
+
+    ./4-hbtn_status.py | cat -e
+   
 </ul>
