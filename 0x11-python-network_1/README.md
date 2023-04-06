@@ -98,3 +98,17 @@
    ./7-error_code.py http://0.0.0.0:5000/status_401
    
 </ul>
+
+# 8. Search API
+
+    Write a Python script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user with the letter as a parameter.
+
+<ul>
+
+   ./8-json_api.py 
+   ./8-json_api.py a
+   ./8-json_api.py b
+   ./8-json_api.py 2
+   
+</ul>
+
