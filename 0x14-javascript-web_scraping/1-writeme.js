@@ -8,9 +8,5 @@ fs.writeFile(process.argv[2], process.argv[3], 'utf8', function (err, data)
     { 
         console.log(err);
     } 
-    else 
-    { 
-        console.log(data); 
-    }
 }
 );
