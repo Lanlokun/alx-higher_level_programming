@@ -18,7 +18,7 @@ request(process.argv[2], function (err, response, body)
             const characters = data[i].characters;
             for (let j = 0; j < characters.length; j++)
             {
-                if (characters[j].includes('18'))
+                if (characters[j].includes('18/'))
                 {
                     count++;
                 }
