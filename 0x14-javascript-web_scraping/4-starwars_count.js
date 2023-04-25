@@ -4,7 +4,7 @@
 let request = require('request');
 request(process.argv[2], function (error, response, body) {
   if (error) {
-    console.log('error:', error); // Print the error if one occurred
+    console.log('error:', error);
   } else {
     let jso = JSON.parse(body);
     let results = jso['results'];
