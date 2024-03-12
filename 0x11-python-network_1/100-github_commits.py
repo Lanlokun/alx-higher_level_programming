@@ -7,6 +7,6 @@ import sys
 
 if __name__ == "__main__":
     url = 'https://api.github.com/repos/{}/{}/commits'.format(sys.argv[2], sys.argv[1])
-    response = requests.get(url)
+    response = requests.get(url, timeout=60)
     for commit in response.json()[:10]:
         print("{}: {}".format(commit.get('sha'), commit.get('commit').get('author').get('name')))

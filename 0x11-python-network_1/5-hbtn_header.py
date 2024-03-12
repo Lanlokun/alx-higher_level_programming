@@ -6,6 +6,6 @@ import requests
 import sys
 
 if __name__ == "__main__":
-    response = requests.get(sys.argv[1])
+    response = requests.get(sys.argv[1], timeout=60)
     print(response.headers.get('X-Request-Id'))
     

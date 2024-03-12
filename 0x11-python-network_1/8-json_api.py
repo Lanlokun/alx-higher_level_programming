@@ -11,7 +11,7 @@ if __name__ == "__main__":
     else:
         q = sys.argv[1]
         url= 'http://0.0.0.0:5000/search_user'
-    response = requests.post(url, data={'q': q})
+    response = requests.post(url, data={'q': q}, timeout=60)
     try:
         response = response.json()
         if len(response) == 0:
